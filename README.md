@@ -60,4 +60,4 @@ Evaluate and compare two major Indian IT companies:
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/SP56775/Compare_two_stocks.git
-cd Compare_two_stocks/
+cd Compare_two_stocks/Project two-Compare_two_stocks
